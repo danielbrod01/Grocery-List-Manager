@@ -4,13 +4,11 @@
 
 ## 1 Introduction
 
-*Here you introduce the product. Keep this  clean and simple, one or two sentences at most.*
 
 An application that allows users to create multiple grocery lists, where one can add grocery items and have each checked off at any given time. 
 
 ## 2 Process Description
 
-*Process description as a set of activities; for each activity, provide the following:*
 
 #### MainActivity
 - This activity will display all the Grocery Lists that are available. Also allows user to add, edit, merge, or delete any lists. This activity will be invoked when the app starts or the user requests to go to the home page. 
