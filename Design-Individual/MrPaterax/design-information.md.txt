@@ -1,0 +1,11 @@
+1. The application needs a list, user, and items. So I created three classes based on these nouns, the list class was given 3 operations based on the given 3 operations that are needed with adding items, deleting items, and changing the quantity of items then given an aggregation to items because many items can be used by a list.
+2. The application needs a database so I created a utility class as this class is just a representation of something that's going to be utilized from the application and then created a simple class based on item types. Because items and item types are associated, there was an association line created between them
+3.This requirement was not needed in the class design as it does not affect design directly as it is more technical detail for the add items function already included.
+4. This requirement was fulfilled by adding a lookup operation in the user class and then creating an association from user to DB
+5. A savelist operation was created under list for when the list would be saved automatically 
+6. A checkoff operation was created under list for when the user must check off items in a list.
+7. A clearall operation was created under list for when the user must clear all check off marks in a list
+8. A savecheckmarks operation was created under list for when the list will save checkmarks
+9. This requirement was not needed in the class design as it does not affect design directly, presenting the list is something that must be done for ui.
+10. 3 operations were made under user called createlist, deletelist, renamelist to satisfy this requirement. Then the user to list got an aggregation relationship. 
+11. This requirement was not considered as it does not affect class design.
