@@ -1,0 +1,10 @@
+Dairy,dairy.jpg
+Fruits,fruits.jpg
+Meat,meats.jpg
+Drinks,drinks.jpeg
+Chips,chips.jpg
+Canned Goods,canned_goods.jpg
+Frozen Food,frozen_foods.jpg
+Cleaning Supplies,cleaning_supplies.jpg
+Ice Cream,ice_cream.jpg
+Vegetables,vegetables.jpg
