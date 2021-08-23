@@ -1,0 +1,121 @@
+# <-- This is a comment
+
+# Items for Chips <- confirmed
+Cheetos,Chips,cheetos.png
+Doritos,Chips,doritos.png
+Lays BBQ,Chips,lays_bbq.png
+Ruffles Cheddar,Chips,ruffles.png
+Takis,Chips,takis.png
+Kettle Brand,Chips,kettle_brand.jpg
+Pringles,Chips,pringles.jpeg
+Fritos,Chips,fritos.jpg
+Sun Chips,Chips,sun_chips.jpg
+Tostitos,Chips,tostitos.jpg
+
+# Items for Cleaning Supplies <- confirmed
+Bleach,Cleaning Supplies,bleach.png
+Broom and Pan,Cleaning Supplies,broom_and_pan.png
+Cleaning Sponge,Cleaning Supplies,cleaning_sponge.png
+Detergent,Cleaning Supplies,detergent.png
+Dish Washing Liquad,Cleaning Supplies,dishwashing_liquid.png
+Duster,Cleaning Supplies,duster.png
+Mop,Cleaning Supplies,mop.jpg
+Paper Towel,Cleaning Supplies,paper_towel.png
+Plunger,Cleaning Supplies,plunger.jpeg
+Window Glass Cleaner,Cleaning Supplies,window_glass_cleaner.jpg
+
+# Items for Dairy <- confirmed
+Butter,Dairy,butter.jpg
+Cheese,Dairy,cheese.jpg
+Heavy Cream,Dairy,heavy_cream.jpg
+Milk,Dairy,milk.png
+Yogurt,Dairy,yogurt.jpg
+Condensed Milk,Dairy,condensed_milk.png
+Cream Cheese,Dairy,cream_cheese.png
+Custard,Dairy,custard.png
+Sour Cream,Dairy,sour_cream.png
+Whipped Cream,Dairy,whipped_cream.png
+
+# Items for Drinks <- confirmed
+Apple Juice,Drinks,apple_juice.jpg
+Pepsi,Drinks,pepsi.jpg
+Mountain Dew,Drinks,mountain_dew.jpg
+Sprite,Drinks,sprite.jpg
+Fanta,Drinks,fanta.png
+Dr.Pepper,Drinks,dr_pepper.jpg
+Coconut Water,Drinks,coconut_water.jpg
+Grape Juice,Drinks,grape_juice.jpg
+Lemonade,Drinks,lemonade.jpg
+Carrot Juice,Drinks,carrot_juice.jpg
+
+# Items for Frozen Food <- confirmed
+Beef Patties,Frozen Food,frozen_beef_patties.png
+Blue Berries,Frozen Food,frozen_blueberries.png
+Chicken Nuggets,Frozen Food,frozen_chicken_nuggets.png
+Cooked Shrimp,Frozen Food,frozen_cooked_shrimp.png
+Fries,Frozen Food,frozen_fries.png
+Peas,Frozen Food,frozen_peas.png
+Pizza,Frozen Food,frozen_pizza.jpg
+Raspberries,Frozen Food,frozen_raspberries.png
+Strawberries,Frozen Food,frozen_strawberries.jpg
+Chicken Wings,Frozen Food,frozen_uncooked_chicken_wings.png
+
+# Items for Fruits <- confirmed
+Apples,Fruits,apple.png
+Banana,Fruits,banana.png
+Grapes,Fruits,grapes.png
+Oranges,Fruits,oranges.png
+Strawberries,Fruits,strawberry.png
+Watermelon,Fruits,watermelon.jpg
+Mango,Fruits,mango.jpg
+Pear,Fruits,pear.jpg
+Pineapple,Fruits,pineapple.jpg
+Peach,Fruits,peach.jpg
+
+# Items for Ice Cream
+Vanilla Ice cream,Ice Cream,vanilla-ice-cream.jpg
+Strawberry Ice cream,Ice Cream,Strawberry-Ice-Cream.jpg
+Rocky Road Ice cream,Ice Cream,rocky-road-ice-cream.jpg
+Pstachio Ice cream,Ice Cream,Pistachio-ice-cream.jpg
+Mint Ice cream,Ice Cream,Mint-Ice-Cream.jpg
+Mango Ice cream,Ice Cream,Mango-Ice-Cream.jpg
+Green Tea Ice cream,Ice Cream,green-tea-ice-cream.jpg
+Chocolate Ice cream,Ice Cream,chocolate-ice-cream.jpg
+Cherry Ice cream,Ice Cream,cherry-ice-cream.jpg
+Blueberry Ice cream,Ice Cream,Blueberry-Ice-Cream.jpg
+
+# Items for Meat <- confirmed
+Beef,Meat,beef.png
+Chicken,Meat,chicken.png
+Lamb,Meat,lamb.png
+Salmon,Meat,salmon.png
+Turkey,Meat,turkey.png
+Tuna,Meat,tuna.jpg
+Sardine,Meat,sardine.jpg
+Pork,Meat,pork.jpg
+Duck,Meat,duck.jpg
+Lobster,Meat,lobster.jpg
+
+# Items for vegetables
+Broccoli,Vegetables,broccoli.jpg
+Carrots,Vegetables,carrots.jpg
+Cucumber,Vegetables,cucumber.jpg
+Onion,Vegetables,onion.jpg
+Tomato,Vegetables,tomato.jpg
+Cabbage,Vegetables,cabbage.jpg
+Lettuce,Vegetables,lettuce.jpg
+Artichoke,Vegetables,artichoke.jpg
+Cauliflower,Vegetables,cauliflower.jpg
+Mushroom,Vegetables,mushroom.jpg
+
+# Items for Canned Goods <- confirmed
+Canned Spinach,Canned Goods,canned_spinach.jpg
+Canned Black Beans,Canned Goods,canned_black_beans.jpg
+Canned Mackerel,Canned Goods,canned_mackerel.jpg
+Canned Coconut Milk,Canned Goods,canned_coconut_milk.jpg
+Canned Peas,Canned Goods,canned_peas.jpg
+Canned Chili,Canned Goods,canned_chili.jpg
+Canned Pinto Beans,Canned Goods,canned_pinto_beans.jpg
+Canned Pumpkin Pie,Canned Goods,canned_pumpkin_pie.jpg
+Canned Chicken Soup,Canned Goods,canned_chicken_soup.jpg
+Canned Tomato Sauce,Canned Goods,canned_tomato_sauce.jpg
