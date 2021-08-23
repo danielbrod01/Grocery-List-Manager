@@ -1,7 +1,5 @@
 # Project Plan
 
-*This is the template for your project plan. The parts in italics are concise explanations of what should go in the corresponding sections and should not appear in the final document.*
-
 **Author**: CSCI 370 Spring 21 Section 34 Team 6
 
 ## 1 Introduction
