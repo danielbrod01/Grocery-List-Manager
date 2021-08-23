@@ -4,7 +4,15 @@ From requirements gathering and design, to implementation, testing and integrati
 ## Requirements, Design and Testing Documents
 <ul>  
   <li>
-    <a href="https://github.com/danielbrod01/Grocery-List-Manager/tree/main/Docs">Documents Here</a>
+    <a href="https://github.com/danielbrod01/Grocery-List-Manager/tree/main/Docs">Documents here</a>
   </li>
 </ul>
+
+## Code to the Grocery List Manager Application
+<ul>  
+  <li>
+    <a href="https://github.com/danielbrod01/Grocery-List-Manager/tree/main/GLM">Code here</a>
+  </li>
+</ul>
+
 
